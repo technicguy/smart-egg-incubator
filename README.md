@@ -12,10 +12,6 @@
 
 Watch the complete project setup, hardware testing, and LCD keypad menu walkthrough:
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/8psR3K1-Nto" title="Smart Egg Incubator Demonstration" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<br>
-
 [![Smart Egg Incubator Demonstration](https://img.youtube.com/vi/8psR3K1-Nto/maxresdefault.jpg)](https://youtu.be/8psR3K1-Nto)
 
 ▶️ **Watch on YouTube:** [https://youtu.be/8psR3K1-Nto](https://youtu.be/8psR3K1-Nto)
