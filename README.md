@@ -8,6 +8,18 @@
 
 ---
 
+## 📺 Video Demonstration
+
+Watch the complete project setup, hardware testing, and LCD keypad menu walkthrough:
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/8psR3K1-Nto" title="Smart Egg Incubator Demonstration" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[![Smart Egg Incubator Demonstration](https://img.youtube.com/vi/8psR3K1-Nto/maxresdefault.jpg)](https://youtu.be/8psR3K1-Nto)
+
+▶️ **Watch on YouTube:** [https://youtu.be/8psR3K1-Nto](https://youtu.be/8psR3K1-Nto)
+
+---
+
 ## 🌟 Key Features
 
 | Feature | Description |
@@ -15,7 +27,7 @@
 | 🌡️ **Temperature Control** | Precise reading via **DHT22** sensor with configurable threshold limits stored in non-volatile **EEPROM**. |
 | 💧 **Humidity Regulation** | Real-time relative humidity tracking (%) with custom threshold alerts and humidifier relay toggling. |
 | 🌀 **Cooling Fan Automation** | Automatic thermal overload control activating cooling fans when temperatures exceed target limits. |
-| 🔄 **Egg Turning Motor Timer** | Scheduled motor control for egg turning cycles (configurable turns per day). |
+| 🔄 **Egg Turner Timer** | Scheduled motor control for egg turning cycles (configurable turns per day). |
 | 🐣 **Hatching Days Counter** | Built-in hatch day counter tracking remaining incubation days. |
 | 🖥️ **Interactive LCD Keypad Menu** | 16x2 LCD UI with custom graphics (temperature, humidity drop, egg, fan, chicken icons) and 5-button analog keyboard input. |
 | 💾 **Non-Volatile Memory** | Preserves all user settings (target temp, humidity, fan thresholds, hatch countdown) across power loss via Arduino **EEPROM**. |
